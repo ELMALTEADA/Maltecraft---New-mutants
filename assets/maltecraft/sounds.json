@@ -1,0 +1,49 @@
+{
+
+  "entity.wraith.idle": {
+    "category": "entity",
+    "subtitle": "subtitles.entity.wraith.idle",
+    "sounds": [
+      {
+        "name": "maltecraft:entities/tyr/idle1",
+        "stream": true
+      },
+      {
+        "name": "maltecraft:entities/tyr/idle2",
+        "stream": true
+      },
+      {
+        "name": "maltecraft:entities/tyr/idle3",
+        "stream": true
+      },
+      {
+        "name": "maltecraft:entities/tyr/idle4",
+        "stream": true
+      }
+    ]
+  },
+  "entity.tyr.hurt": {
+    "category": "entity",
+    "subtitle": "subtitles.entity.tyr.hurt",
+    "sounds": [
+      {
+        "name": "maltecraft:entities/tyr/hurt1",
+        "stream": true
+      }
+    ]
+  },
+  "entity.tyr.attack": {
+    "category": "entity",
+    "subtitle": "subtitles.entity.tyr.attack",
+    "sounds": [
+      {
+        "name": "maltecraft:entities/tyr/attack1",
+        "stream": true
+      },
+      {
+        "name": "maltecraft:entities/tyr/attack2",
+        "stream": true
+      }
+    ]
+  }
+}
